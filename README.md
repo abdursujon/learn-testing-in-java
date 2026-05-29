@@ -2,8 +2,8 @@
 This repo covers must know Junit and Mockito classes and their methods.
 
 ## Junit Covered Topics
-1.  Assertions
-2.  ParameterizedTest
+1.  Assertions x
+2.  ParameterizedTest x
 3.  ValueSource
 4.  CsvSource
 5.  MethodSource
